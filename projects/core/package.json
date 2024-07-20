@@ -1,0 +1,19 @@
+{
+  "name": "@couch-express/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrellncouch/couch-express.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.5.3"
+  },
+  "types": "./**/*.d.ts"
+}
